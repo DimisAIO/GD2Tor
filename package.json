@@ -1,0 +1,19 @@
+{
+  "name": "quoicougjp",
+  "version": "1.0.0",
+  "description": "QuoicouGJP is a 1.9 GJP (Man In The Middle) proxy!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "base64-js": "^1.5.1",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "socks-proxy-agent": "^8.0.4"
+  }
+}
